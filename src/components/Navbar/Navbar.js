@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className="flex justify-between w-full">
           <div className="primary flex items-center gap-4 md:gap-6">
             <Link to="/">
-              <h2 className="text-red-500 font-semibold text-2xl md:text-2xl">MovieGoons</h2>
+              <h2 className="text-red-600 font-semibold text-2xl md:text-2xl">MovieGoons</h2>
             </Link>
             <Link to="/favourites">
               <p className="text-white text-lg">Favourites</p>
